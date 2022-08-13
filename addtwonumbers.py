@@ -17,3 +17,6 @@ class Solution:
         l3 = int(l3)
         return l3
 
+s = Solution()
+s.addTwoNumbers(342, 465)
+

@@ -13,6 +13,6 @@ reverse = test_list[::-1]
   
 # checking if palindrome
 res = test_list == reverse
-  
+  # zr
 # printing result 
 print("Is list Palindrome :"+ str(res))

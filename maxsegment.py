@@ -2,6 +2,10 @@
 
 # for example, given A = [4, 3, 4, 4, 4, 2], the function should return 3, because we can find three segments of length 2, such that the segment has an equal sum, for example, (4, 3), (4, 4) and (4, 4)
 
+
+
+
+
 s = [10, 1, 3, 1, 2, 2, 1, 0, 4]
 
 def solution(s):
